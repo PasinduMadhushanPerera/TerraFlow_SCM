@@ -32,7 +32,7 @@ const StatCard: React.FC<StatCardProps> = ({
             {change}%
           </Text>
           <Text type="secondary" className="ml-2">
-            Since last month
+            Since last months
           </Text>
         </div>}
     </Card>;
